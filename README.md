@@ -1,4 +1,5 @@
 
-![gh-header](https://github.com/user-attachments/assets/329cfd9d-233a-4d9a-89b0-194524dd1016)
+![github-header-image](https://github.com/user-attachments/assets/ba67c84c-0798-4c38-819c-480cb4afde8d)
+
 
 # Simple worker pool in Go
